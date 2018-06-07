@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="badge_text_size">8dp</dimen>
+    <dimen name="badge_string_padding">5dp</dimen>
+    <dimen name="badge_oval_height">17dp</dimen>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+
+    <declare-styleable name="BadgeStringView">
+        <attr name="badge_string" format="string" />
+        <attr name="badge_string_size" format="dimension" />
+        <attr name="badge_string_color" format="color" />
+        <attr name="badge_oval_color" format="color" />
+        <attr name="badge_oval_padding" format="dimension" />
+        <attr name="badge_oval_height" format="dimension" />
+    </declare-styleable>
+
+</resources>
